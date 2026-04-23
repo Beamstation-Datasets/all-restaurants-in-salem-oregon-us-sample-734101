@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c298255d-6201-43cf-b177-24d65c5a3b10",
+  "export_job_id": "ebfccbab-e3c8-41cd-a8e6-e4d2441b419c",
   "id_short": 734101,
-  "published_at": "2026-04-19T19:10:58Z",
+  "published_at": "2026-04-23T19:37:37Z",
   "repo_name": "all-restaurants-in-salem-oregon-us-sample-734101",
   "sample_asset_name": "beamstation_734101_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/734101/beamstation_734101_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "39aa4cdaf4b421d2890b268b4318cf98da3f29c633a351b2f74d2d37df186dcf",
-  "sample_size_bytes": 208776,
-  "total_records": 593
+  "sample_records": 48,
+  "sample_sha256": "7dfe938eecde2b1fee4f6c62628453d829103f7e8efee59bbdf8c42586e5a828",
+  "sample_size_bytes": 175961,
+  "total_records": 489
 }
